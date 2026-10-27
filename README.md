@@ -2,7 +2,7 @@
 
 ### Senior Frontend Engineer · React · TypeScript · AI-Driven Development
 
-📍 Pune, India · open to relocation in Europe · 1-month notice
+📍 Pune, India · open to relocation · 1-month notice
 
 Senior Frontend Engineer with **9+ years** building large-scale enterprise web applications in **React and TypeScript**, including the frontend of **Ernst & Young Global's** engagement-management platform. As Module Lead, I cut development time by about **30%** with AI-driven development (MCP, GitHub Copilot, Gemini, Claude). I'm strong in frontend architecture, micro-frontends, Redux Toolkit / Redux-Saga and test automation (Jest, React Testing Library, Playwright), shipped through CI/CD in Agile/Scrum teams.
 
